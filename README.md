@@ -1,2 +1,2 @@
 # hello-world
-just repository
+read this first.
